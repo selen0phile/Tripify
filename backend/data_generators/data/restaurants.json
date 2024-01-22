@@ -1,0 +1,3137 @@
+[
+  {
+    "restaurant_id": 1,
+    "name": "Elements - Global Dining at InterContinental Dhaka",
+    "reservation_price": 1420,
+    "address": "87 Food Court",
+    "city_id": 1,
+    "description": "A restaurant serving Savoringly Delicious Mexican Seafood.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "American,European",
+    "contact": "015069579656",
+    "email": "elements_-@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 2,
+    "name": "Latest Recipe",
+    "reservation_price": 720,
+    "address": "60 Gourmet Street",
+    "city_id": 1,
+    "description": "A restaurant serving Exquisitely Gourmet Italian Dim Sum.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "International",
+    "contact": "016392542570",
+    "email": "latest_recipe@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-o/09/70/b4/12/latest-recipe.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 3,
+    "name": "The Garden Kitchen at Sheraton Dhaka",
+    "reservation_price": 1880,
+    "address": "13 Cafeteria Lane",
+    "city_id": 1,
+    "description": "A restaurant serving Delightfully Savory Indian Dim Sum.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "International,Sushi",
+    "contact": "016274563210",
+    "email": "the_garden@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/22/44/b4/32/restaurant-interior.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 4,
+    "name": "Seasonal Tastes",
+    "reservation_price": 1370,
+    "address": "79 Dining Boulevard",
+    "city_id": 1,
+    "description": "A restaurant serving Tastefully Savory Mediterranean Seafood.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "American,Asian",
+    "contact": "014669776719",
+    "email": "seasonal_tastes@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/09/ca/e1/45/west1-largejpg.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 5,
+    "name": "Risotto by Sarina",
+    "reservation_price": 1860,
+    "address": "31 Food Court",
+    "city_id": 1,
+    "description": "A restaurant serving Delightfully Savory Greek Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian",
+    "contact": "019587933349",
+    "email": "risotto_by@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/29/76/7b/a8/lounge-area.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 6,
+    "name": "Aqua Deck at InterContinental Dhaka",
+    "reservation_price": 140,
+    "address": "5 Restaurant Row",
+    "city_id": 1,
+    "description": "A restaurant serving Passionately Fusion Chinese Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Bar",
+    "contact": "016188081547",
+    "email": "aqua.deck@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/52/9a/cc/aqua-deck.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 7,
+    "name": "Olea Turkish Restaurant at Le Meridien Dhaka",
+    "reservation_price": 130,
+    "address": "56 Main Street",
+    "city_id": 1,
+    "description": "A restaurant serving Exquisitely Gourmet Italian Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "018306445808",
+    "email": "olea_turkish@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0e/ce/63/ab/salivating-seafood.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 8,
+    "name": "The Amber Room at InterContinental Dhaka",
+    "reservation_price": 630,
+    "address": "80 Riverfront",
+    "city_id": 1,
+    "description": "A restaurant serving Wonderfully Quaint French Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Steakhouse,Seafood",
+    "contact": "015789595768",
+    "email": "the_amber@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/f0/4e/03/the-best-fine-dine-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 9,
+    "name": "Latitude 23",
+    "reservation_price": 1880,
+    "address": "17 Restaurant Row",
+    "city_id": 1,
+    "description": "A restaurant serving Exquisitely Delicious Italian Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Cafe",
+    "contact": "013338061385",
+    "email": "latitude.23@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0e/e5/0a/38/feel-of-a-european-cafe.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 10,
+    "name": "Grandiose Restaurant",
+    "reservation_price": 1420,
+    "address": "100 Riverfront",
+    "city_id": 1,
+    "description": "A restaurant serving Tastefully Quaint Bangladeshi Biryani.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Japanese",
+    "contact": "018938696012",
+    "email": "grandiose.restaurant@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/17/b6/2e/21/grandiose-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 11,
+    "name": "Ambrosia",
+    "reservation_price": 520,
+    "address": "83 Riverfront",
+    "city_id": 2,
+    "description": "A restaurant serving Elegantly Gourmet Bangladeshi Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "International,Asian",
+    "contact": "013969469014",
+    "email": "ambrosia@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0c/53/2b/6f/plate-and-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 12,
+    "name": "Regalo",
+    "reservation_price": 1930,
+    "address": "69 Food Court",
+    "city_id": 2,
+    "description": "A restaurant serving Tastefully Elegant Thai Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Mexican",
+    "contact": "018114472202",
+    "email": "regalo@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0e/e0/14/d5/surf-turf.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 13,
+    "name": "Handi Restaurant",
+    "reservation_price": 770,
+    "address": "67 Dining Boulevard",
+    "city_id": 2,
+    "description": "A restaurant serving Wonderfully Rustic Chinese Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Indian,Asian",
+    "contact": "015963196970",
+    "email": "handi.restaurant@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/03/aa/2d/25/handi-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 14,
+    "name": "The Exchange Restaurant",
+    "reservation_price": 1750,
+    "address": "96 Food Court",
+    "city_id": 2,
+    "description": "A restaurant serving Passionately Charming Mexican Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Indian,European",
+    "contact": "019792887828",
+    "email": "the_exchange@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0b/71/2a/f5/the-exchange.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 15,
+    "name": "Barcode Cafe",
+    "reservation_price": 1600,
+    "address": "30 Gourmet Street",
+    "city_id": 2,
+    "description": "A restaurant serving Uniquely Charming Japanese Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Contemporary",
+    "contact": "014726657712",
+    "email": "barcode_cafe@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-o/07/41/46/cb/barcode-cafe.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 16,
+    "name": "Greedy Guts",
+    "reservation_price": 1680,
+    "address": "34 Foodie Street",
+    "city_id": 2,
+    "description": "A restaurant serving Exquisitely Authentic Chinese Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian",
+    "contact": "016793041834",
+    "email": "greedy.guts@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-p/0a/a2/2f/0a/seafood-pasta-i-really.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 17,
+    "name": "Meridian Hotel & Restaurant",
+    "reservation_price": 1350,
+    "address": "20 Main Street",
+    "city_id": 2,
+    "description": "A restaurant serving Uniquely Delicious Mexican Kebab.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "019934956526",
+    "email": "meridian.hotel@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/12/0d/78/e1/photo0jpg.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 18,
+    "name": "Tava Restaurant",
+    "reservation_price": 1640,
+    "address": "21 Main Street",
+    "city_id": 2,
+    "description": "A restaurant serving Exquisitely Elegant Japanese Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Indian,Asian",
+    "contact": "017809321754",
+    "email": "tava_restaurant@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/03/a8/cc/dd/tava-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 19,
+    "name": "The Pavilion",
+    "reservation_price": 1510,
+    "address": "11 Food Court",
+    "city_id": 2,
+    "description": "A restaurant serving Savoringly Exquisite French Pizza.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Chinese",
+    "contact": "014775176897",
+    "email": "the.pavilion@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/07/68/11/d9/good-i-like-this-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 20,
+    "name": "Krave",
+    "reservation_price": 1820,
+    "address": "4 Dining Boulevard",
+    "city_id": 2,
+    "description": "A restaurant serving Exquisitely Delicious Mediterranean Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Steakhouse,Italian",
+    "contact": "013795883136",
+    "email": "krave@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/0c/cf/95/krave.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 21,
+    "name": "Citylight Cafe & Restaurant",
+    "reservation_price": 130,
+    "address": "48 Culinary Avenue",
+    "city_id": 3,
+    "description": "A restaurant serving Savoringly Cozy Thai Curry.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Fast Food,Fusion",
+    "contact": "019632092481",
+    "email": "citylight.cafe@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0a/5b/04/e8/our-exclusive-rooftop.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 22,
+    "name": "Shawarma House",
+    "reservation_price": 120,
+    "address": "66 Main Street",
+    "city_id": 3,
+    "description": "A restaurant serving Elegantly Seaside Spanish Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Fast Food,Middle Eastern",
+    "contact": "015582511925",
+    "email": "shawarma_house@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-p/0c/99/70/2c/ta-img-20160819-213003.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 23,
+    "name": "New Azmiri Grill & Bar-B-Q",
+    "reservation_price": 1410,
+    "address": "6 Lakeview Drive",
+    "city_id": 3,
+    "description": "A restaurant serving Exquisitely Rustic French Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Cafe,Barbecue",
+    "contact": "017375193793",
+    "email": "new_azmiri@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/15/cc/ab/a9/new-azmiri-grill-b-b.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 24,
+    "name": "castle Salam",
+    "reservation_price": 440,
+    "address": "91 Foodie Street",
+    "city_id": 3,
+    "description": "A restaurant serving Elegantly Quaint Greek Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Fast Food",
+    "contact": "011385088726",
+    "email": "castle.salam@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/11/28/ed/61/hotel-castle-salam-khulna.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 25,
+    "name": "Deshi Kitchen",
+    "reservation_price": 250,
+    "address": "90 Dining Boulevard",
+    "city_id": 3,
+    "description": "A restaurant serving Exquisitely Charming Italian Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Grill",
+    "contact": "013991303129",
+    "email": "deshi_kitchen@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/12/27/c7/53/img-20180225-155520-largejpg.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 26,
+    "name": "We Hungry",
+    "reservation_price": 180,
+    "address": "52 Foodie Street",
+    "city_id": 3,
+    "description": "A restaurant serving Uniquely Charming Spanish Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Fusion",
+    "contact": "015046574014",
+    "email": "we_hungry@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/07/fb/b2/64/we-hungry.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 27,
+    "name": "Bistro C",
+    "reservation_price": 1020,
+    "address": "32 Gourmet Street",
+    "city_id": 3,
+    "description": "A restaurant serving Enchantingly Authentic Greek Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Cafe",
+    "contact": "012635127494",
+    "email": "bistro_c@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/12/32/6e/e3/img-20180225-150019-largejpg.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 28,
+    "name": "Al Jamils Fish Grill & BBQ",
+    "reservation_price": 1790,
+    "address": "59 Main Street",
+    "city_id": 3,
+    "description": "A restaurant serving Authentically Authentic Spanish Biryani.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Seafood,Barbecue",
+    "contact": "015672377039",
+    "email": "al_jamils@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-p/27/b3/93/cd/al-jamil-s-fish-grill.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 29,
+    "name": "SafenSave",
+    "reservation_price": 200,
+    "address": "96 Culinary Avenue",
+    "city_id": 3,
+    "description": "A restaurant serving Exquisitely Savory Italian Biryani.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "018657088904",
+    "email": "safensave@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 30,
+    "name": "Mughals Dine",
+    "reservation_price": 810,
+    "address": "50 Culinary Avenue",
+    "city_id": 3,
+    "description": "A restaurant serving Authentically Charming French Pizza.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Indian,Cafe",
+    "contact": "018168752502",
+    "email": "mughals_dine@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/12/d4/00/92/img-20180501-110626-largejpg.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 31,
+    "name": "Chalk & Beans",
+    "reservation_price": 1860,
+    "address": "28 Riverfront",
+    "city_id": 4,
+    "description": "A restaurant serving Elegantly Elegant Greek Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Cafe",
+    "contact": "015326381242",
+    "email": "chalk_&@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/be/a1/b0/img-20210217-202158-2.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 32,
+    "name": "Chilis Fast Food",
+    "reservation_price": 1270,
+    "address": "28 Cafeteria Lane",
+    "city_id": 4,
+    "description": "A restaurant serving Delightfully Elegant Mediterranean Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Pizza,Fast Food",
+    "contact": "016858655634",
+    "email": "chilis.fast@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/07/ff/e4/ea/chili-s-fast-food.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 33,
+    "name": "Callisto",
+    "reservation_price": 250,
+    "address": "2 Culinary Avenue",
+    "city_id": 4,
+    "description": "A restaurant serving Elegantly Fusion Italian Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Cafe",
+    "contact": "013091656419",
+    "email": "callisto@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1d/72/0f/3b/caption.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 34,
+    "name": "Twist & Taste",
+    "reservation_price": 350,
+    "address": "83 Foodie Street",
+    "city_id": 4,
+    "description": "A restaurant serving Wonderfully Exquisite Bangladeshi Dim Sum.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Fast Food",
+    "contact": "019545656889",
+    "email": "twist.&@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/12/b6/d3/0b/interior-cash-counter.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 35,
+    "name": "Ice & Fee",
+    "reservation_price": 500,
+    "address": "4 Culinary Avenue",
+    "city_id": 4,
+    "description": "A restaurant serving Delightfully Seaside French Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "018502019102",
+    "email": "ice_&@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-p/17/eb/8a/f0/img-20190609-195821-largejpg.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 36,
+    "name": "Colinos",
+    "reservation_price": 330,
+    "address": "86 Culinary Avenue",
+    "city_id": 4,
+    "description": "A restaurant serving Passionately Gourmet Spanish Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Cafe,Fast Food",
+    "contact": "015356559587",
+    "email": "colinos@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/6b/3a/6d/crispy-cheese-chicken.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 37,
+    "name": "Backyard Kitchen",
+    "reservation_price": 1430,
+    "address": "2 Main Street",
+    "city_id": 4,
+    "description": "A restaurant serving Exquisitely Authentic Japanese Dim Sum.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Pizza",
+    "contact": "018793497610",
+    "email": "backyard.kitchen@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/22/e4/90/36/egg-fried-rice-garlic.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 38,
+    "name": "Hungry Heroes",
+    "reservation_price": 670,
+    "address": "78 Main Street",
+    "city_id": 4,
+    "description": "A restaurant serving Delightfully Cozy Mexican Kebab.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "013505626908",
+    "email": "hungry.heroes@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-p/1c/97/7c/58/nice-place-to-visit-nice.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 39,
+    "name": "Twin Rooftop Restaurant",
+    "reservation_price": 1520,
+    "address": "21 Dining Boulevard",
+    "city_id": 4,
+    "description": "A restaurant serving Exquisitely Exquisite Mexican Dim Sum.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "American,Indian",
+    "contact": "019718021376",
+    "email": "twin_rooftop@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/23/90/3d/22/twin-rooftop-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 40,
+    "name": "Hotel Star International",
+    "reservation_price": 1980,
+    "address": "54 Foodie Street",
+    "city_id": 4,
+    "description": "A restaurant serving Exquisitely Elegant Bangladeshi Seafood.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "012454596929",
+    "email": "hotel.star@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0e/9c/6c/5c/regular-tablw.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 41,
+    "name": "Bangla Restora",
+    "reservation_price": 470,
+    "address": "87 Foodie Street",
+    "city_id": 5,
+    "description": "A restaurant serving Authentically Seaside Indian Dim Sum.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "016106787005",
+    "email": "bangla.restora@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0d/9d/80/34/bangla-restora.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 42,
+    "name": "Haque Inn Restaurant",
+    "reservation_price": 540,
+    "address": "87 Lakeview Drive",
+    "city_id": 5,
+    "description": "A restaurant serving Wonderfully Quaint Thai Biryani.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "018539453362",
+    "email": "haque_inn@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/19/8f/56/2f/entry-point.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 43,
+    "name": "Time Square Restaurant",
+    "reservation_price": 1980,
+    "address": "73 Cafeteria Lane",
+    "city_id": 5,
+    "description": "A restaurant serving Savoringly Rustic Spanish Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Indian,Fast Food",
+    "contact": "016288755004",
+    "email": "time.square@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/08/b8/14/23/time-square-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 44,
+    "name": "Handi",
+    "reservation_price": 50,
+    "address": "31 Culinary Avenue",
+    "city_id": 5,
+    "description": "A restaurant serving Wonderfully Elegant Thai Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Indian",
+    "contact": "014432527582",
+    "email": "handi@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 45,
+    "name": "Off Beat",
+    "reservation_price": 390,
+    "address": "15 Culinary Avenue",
+    "city_id": 5,
+    "description": "A restaurant serving Delightfully Authentic Thai Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "011785209310",
+    "email": "off.beat@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-p/21/f1/72/b0/off-beat.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 46,
+    "name": "Cafe Light House",
+    "reservation_price": 880,
+    "address": "56 Restaurant Row",
+    "city_id": 5,
+    "description": "A restaurant serving Authentically Rustic Mediterranean Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Pizza",
+    "contact": "019931713168",
+    "email": "cafe.light@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 47,
+    "name": "Royal Dine Restaurant",
+    "reservation_price": 1600,
+    "address": "6 Foodie Street",
+    "city_id": 5,
+    "description": "A restaurant serving Exquisitely Cozy Japanese Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "013116219306",
+    "email": "royal.dine@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 48,
+    "name": "Cups And Hotbite",
+    "reservation_price": 1190,
+    "address": "41 Restaurant Row",
+    "city_id": 5,
+    "description": "A restaurant serving Savoringly Delicious Thai Biryani.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,American",
+    "contact": "015274083402",
+    "email": "cups_and@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 49,
+    "name": "Miami Leisure Spot",
+    "reservation_price": 1210,
+    "address": "5 Food Court",
+    "city_id": 5,
+    "description": "A restaurant serving Delightfully Charming Mexican Kebab.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "012312697547",
+    "email": "miami_leisure@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 50,
+    "name": "Avanti Restaurant",
+    "reservation_price": 570,
+    "address": "33 Cafeteria Lane",
+    "city_id": 6,
+    "description": "A restaurant serving Enchantingly Authentic Greek Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Pizza",
+    "contact": "011189529498",
+    "email": "avanti_restaurant@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0a/f3/a1/f9/take-away-preparation.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 51,
+    "name": "Mood On",
+    "reservation_price": 1200,
+    "address": "9 Food Court",
+    "city_id": 6,
+    "description": "A restaurant serving Elegantly Rustic Greek Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Fusion",
+    "contact": "016331954295",
+    "email": "mood_on@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/ae/d1/97/mood-on.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 52,
+    "name": "Avanti Aroma Restaurant",
+    "reservation_price": 1940,
+    "address": "48 Foodie Street",
+    "city_id": 6,
+    "description": "A restaurant serving Passionately Savory Greek Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "011916833997",
+    "email": "avanti.aroma@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 53,
+    "name": "Food King",
+    "reservation_price": 1990,
+    "address": "64 Gourmet Street",
+    "city_id": 6,
+    "description": "A restaurant serving Savoringly Seaside Bangladeshi Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Chinese",
+    "contact": "015034767102",
+    "email": "food.king@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/29/cb/c5/78/address-mofizuddin-index.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 54,
+    "name": "Star Cuisine Restaurant",
+    "reservation_price": 1650,
+    "address": "64 Gourmet Street",
+    "city_id": 6,
+    "description": "A restaurant serving Wonderfully Gourmet Greek Pizza.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Chinese",
+    "contact": "014567851355",
+    "email": "star_cuisine@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/29/9e/fd/ff/chinese-set-menu.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 55,
+    "name": "Chalk & Beans",
+    "reservation_price": 890,
+    "address": "63 Riverfront",
+    "city_id": 7,
+    "description": "A restaurant serving Elegantly Rustic Mediterranean Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Cafe",
+    "contact": "019397636850",
+    "email": "chalk.&@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/be/a1/b0/img-20210217-202158-2.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 56,
+    "name": "Cicily Thai Chinese Restaurant",
+    "reservation_price": 230,
+    "address": "53 Gourmet Street",
+    "city_id": 7,
+    "description": "A restaurant serving Exquisitely Authentic Italian Seafood.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Thai",
+    "contact": "014962803706",
+    "email": "cicily_thai@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-o/09/41/94/dd/cicily-thai-chinese-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 57,
+    "name": "Mouban Resturent",
+    "reservation_price": 130,
+    "address": "31 Riverfront",
+    "city_id": 7,
+    "description": "A restaurant serving Savoringly Rustic Mediterranean Curry.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "016821641295",
+    "email": "mouban_resturent@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0f/69/43/ef/amman-downtown-view.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 58,
+    "name": "Castle Black",
+    "reservation_price": 1780,
+    "address": "86 Culinary Avenue",
+    "city_id": 7,
+    "description": "A restaurant serving Elegantly Delicious Indian Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Chinese",
+    "contact": "015056238760",
+    "email": "castle_black@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/28/1f/06/11/burger.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 59,
+    "name": "Chilis Fast Food",
+    "reservation_price": 1040,
+    "address": "76 Cafeteria Lane",
+    "city_id": 7,
+    "description": "A restaurant serving Uniquely Rustic Japanese Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Pizza,Fast Food",
+    "contact": "019724498264",
+    "email": "chilis_fast@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/07/ff/e4/ea/chili-s-fast-food.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 60,
+    "name": "Callisto",
+    "reservation_price": 510,
+    "address": "80 Gourmet Street",
+    "city_id": 7,
+    "description": "A restaurant serving Elegantly Quaint Japanese Biryani.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Cafe",
+    "contact": "012563995459",
+    "email": "callisto@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1d/72/0f/3b/caption.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 61,
+    "name": "Twist & Taste",
+    "reservation_price": 1000,
+    "address": "58 Food Court",
+    "city_id": 7,
+    "description": "A restaurant serving Wonderfully Savory Spanish Biryani.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Fast Food",
+    "contact": "015746746989",
+    "email": "twist_&@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/12/b6/d3/0b/interior-cash-counter.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 62,
+    "name": "Ice & Fee",
+    "reservation_price": 1920,
+    "address": "93 Gourmet Street",
+    "city_id": 7,
+    "description": "A restaurant serving Wonderfully Rustic Thai Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "017045038849",
+    "email": "ice_&@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-p/17/eb/8a/f0/img-20190609-195821-largejpg.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 63,
+    "name": "Colinos",
+    "reservation_price": 400,
+    "address": "48 Restaurant Row",
+    "city_id": 7,
+    "description": "A restaurant serving Uniquely Cozy Mexican Biryani.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Cafe,Fast Food",
+    "contact": "017439785286",
+    "email": "colinos@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/6b/3a/6d/crispy-cheese-chicken.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 64,
+    "name": "Backyard Kitchen",
+    "reservation_price": 490,
+    "address": "56 Culinary Avenue",
+    "city_id": 7,
+    "description": "A restaurant serving Tastefully Delicious Mediterranean Seafood.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Pizza",
+    "contact": "012914751493",
+    "email": "backyard_kitchen@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/22/e4/90/36/egg-fried-rice-garlic.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 65,
+    "name": "Panshi Restaurant",
+    "reservation_price": 1780,
+    "address": "33 Foodie Street",
+    "city_id": 8,
+    "description": "A restaurant serving Enchantingly Authentic Thai Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "012598607433",
+    "email": "panshi_restaurant@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/07/b6/5f/03/panshi-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 66,
+    "name": "Platinum Lounge",
+    "reservation_price": 170,
+    "address": "95 Main Street",
+    "city_id": 8,
+    "description": "A restaurant serving Exquisitely Authentic French Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Bangladeshi,Chinese",
+    "contact": "013941745371",
+    "email": "platinum_lounge@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/17/42/e0/a6/multi-cuisine-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 67,
+    "name": "Woondaal King Kebab",
+    "reservation_price": 1050,
+    "address": "4 Food Court",
+    "city_id": 8,
+    "description": "A restaurant serving Tastefully Quaint Greek Curry.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Indian,Asian",
+    "contact": "019457226136",
+    "email": "woondaal_king@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/16/1d/b0/89/indoor-view.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 68,
+    "name": "The Mad Grill",
+    "reservation_price": 1200,
+    "address": "26 Culinary Avenue",
+    "city_id": 8,
+    "description": "A restaurant serving Savoringly Savory Mexican Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Indian,Turkish",
+    "contact": "014845092989",
+    "email": "the.mad@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/11/df/6f/a5/introducing-our-new-mad.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 69,
+    "name": "Meatup",
+    "reservation_price": 1440,
+    "address": "77 Dining Boulevard",
+    "city_id": 8,
+    "description": "A restaurant serving Enchantingly Rustic French Seafood.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Steakhouse",
+    "contact": "016006161524",
+    "email": "meatup@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/2a/12/ba/09/caption.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 70,
+    "name": "Pizza Express",
+    "reservation_price": 530,
+    "address": "66 Culinary Avenue",
+    "city_id": 8,
+    "description": "A restaurant serving Exquisitely Savory French Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Chinese",
+    "contact": "018289465706",
+    "email": "pizza.express@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/91/ab/14/getlstd-property-photo.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 71,
+    "name": "Nirvana Inn",
+    "reservation_price": 1220,
+    "address": "60 Gourmet Street",
+    "city_id": 8,
+    "description": "A restaurant serving Authentically Fusion Bangladeshi Curry.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Indian,Asian",
+    "contact": "015652797769",
+    "email": "nirvana.inn@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/15/9c/30/monuwer-rahman.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 72,
+    "name": "Bhujon Bari",
+    "reservation_price": 500,
+    "address": "20 Riverfront",
+    "city_id": 8,
+    "description": "A restaurant serving Tastefully Fusion Italian Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "019294523829",
+    "email": "bhujon_bari@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0f/d8/c8/6d/bhujon-bari.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 73,
+    "name": "Eatopia",
+    "reservation_price": 640,
+    "address": "43 Riverfront",
+    "city_id": 8,
+    "description": "A restaurant serving Uniquely Seaside French Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Indian,Bangladeshi",
+    "contact": "017003632094",
+    "email": "eatopia@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/09/ae/be/58/eatopia.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 74,
+    "name": "Pach Bhai Restaurant",
+    "reservation_price": 1760,
+    "address": "41 Riverfront",
+    "city_id": 8,
+    "description": "A restaurant serving Uniquely Cozy Thai Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Bangladeshi,Asian",
+    "contact": "017045893200",
+    "email": "pach.bhai@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0f/bb/2f/e6/photo0jpg.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 75,
+    "name": "Zafran restaurant Barishal",
+    "reservation_price": 1170,
+    "address": "6 Foodie Street",
+    "city_id": 9,
+    "description": "A restaurant serving Enchantingly Savory French Kebab.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "011916767679",
+    "email": "zafran.restaurant@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1b/95/4c/04/test-is-awesome.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 76,
+    "name": "Tawa",
+    "reservation_price": 290,
+    "address": "11 Gourmet Street",
+    "city_id": 9,
+    "description": "A restaurant serving Passionately Delicious Chinese Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Cafe",
+    "contact": "016029216815",
+    "email": "tawa@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/12/46/03/df/fb-img-1520161351503.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 77,
+    "name": "Handi Karai",
+    "reservation_price": 790,
+    "address": "37 Cafeteria Lane",
+    "city_id": 9,
+    "description": "A restaurant serving Uniquely Delicious Greek Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "011348186092",
+    "email": "handi_karai@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0d/77/dc/6d/papad.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 78,
+    "name": "Singara Point",
+    "reservation_price": 330,
+    "address": "54 Cafeteria Lane",
+    "city_id": 9,
+    "description": "A restaurant serving Delightfully Delicious Italian Dim Sum.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "011564197858",
+    "email": "singara_point@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0d/7c/2b/31/plate-of-singara.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 79,
+    "name": "Garden Inn Restaurant",
+    "reservation_price": 1030,
+    "address": "89 Culinary Avenue",
+    "city_id": 9,
+    "description": "A restaurant serving Uniquely Cozy Italian Dim Sum.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "014325269284",
+    "email": "garden.inn@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1b/54/7b/9b/garden-inn-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 80,
+    "name": "The river cafe",
+    "reservation_price": 760,
+    "address": "23 Gourmet Street",
+    "city_id": 9,
+    "description": "A restaurant serving Tastefully Charming Mexican Seafood.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "015373833911",
+    "email": "the.river@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/18/db/70/12/the-river-cafe.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 81,
+    "name": "Western Food Restaurant",
+    "reservation_price": 760,
+    "address": "67 Riverfront",
+    "city_id": 9,
+    "description": "A restaurant serving Authentically Fusion Chinese Pizza.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian",
+    "contact": "011172973977",
+    "email": "western.food@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 82,
+    "name": "Amigos Restaurant & Juice Bar",
+    "reservation_price": 1970,
+    "address": "46 Lakeview Drive",
+    "city_id": 9,
+    "description": "A restaurant serving Wonderfully Exquisite Bangladeshi Dim Sum.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "013595702467",
+    "email": "amigos.restaurant@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 83,
+    "name": "Elegant Food Castle",
+    "reservation_price": 1270,
+    "address": "8 Main Street",
+    "city_id": 9,
+    "description": "A restaurant serving Enchantingly Gourmet Bangladeshi Pizza.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,American",
+    "contact": "012071849836",
+    "email": "@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 84,
+    "name": "Hot Plate Restaurant",
+    "reservation_price": 420,
+    "address": "68 Foodie Street",
+    "city_id": 9,
+    "description": "A restaurant serving Passionately Seaside Japanese Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Fast Food",
+    "contact": "011193075964",
+    "email": "hot_plate@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-p/24/c0/e9/79/hot-plate-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 85,
+    "name": "The Juice Cafe",
+    "reservation_price": 630,
+    "address": "77 Gourmet Street",
+    "city_id": 10,
+    "description": "A restaurant serving Uniquely Delicious Italian Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "014665408558",
+    "email": "the.juice@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/f8/42/13/the-juice-cafe.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 86,
+    "name": "Food Fair Restaurant",
+    "reservation_price": 1760,
+    "address": "90 Cafeteria Lane",
+    "city_id": 10,
+    "description": "A restaurant serving Delightfully Exquisite Mediterranean Kebab.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Indian,Asian",
+    "contact": "018179731890",
+    "email": "food.fair@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 87,
+    "name": "Organic Sweets Bangladesh",
+    "reservation_price": 210,
+    "address": "95 Dining Boulevard",
+    "city_id": 10,
+    "description": "A restaurant serving Tastefully Charming French Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Indian,Asian",
+    "contact": "015649533434",
+    "email": "organic.sweets@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-o/1a/df/cd/8e/slogan.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 88,
+    "name": "Aqua Deck at InterContinental Dhaka",
+    "reservation_price": 360,
+    "address": "70 Foodie Street",
+    "city_id": 10,
+    "description": "A restaurant serving Exquisitely Seaside Indian Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Bar",
+    "contact": "016176012301",
+    "email": "aqua.deck@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/52/9a/cc/aqua-deck.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 89,
+    "name": "Elements - Global Dining at InterContinental Dhaka",
+    "reservation_price": 500,
+    "address": "91 Restaurant Row",
+    "city_id": 10,
+    "description": "A restaurant serving Passionately Rustic Chinese Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "American,European",
+    "contact": "015346894989",
+    "email": "elements_-@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 90,
+    "name": "The Amber Room at InterContinental Dhaka",
+    "reservation_price": 1540,
+    "address": "64 Restaurant Row",
+    "city_id": 10,
+    "description": "A restaurant serving Delightfully Cozy Spanish Curry.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Steakhouse,Seafood",
+    "contact": "013417039350",
+    "email": "the_amber@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/f0/4e/03/the-best-fine-dine-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 91,
+    "name": "Cafe Social at InterContinental Dhaka",
+    "reservation_price": 1770,
+    "address": "6 Gourmet Street",
+    "city_id": 10,
+    "description": "A restaurant serving Authentically Delicious Chinese Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Cafe",
+    "contact": "017743967828",
+    "email": "cafe.social@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/61/24/7e/cafe-social.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 92,
+    "name": "Hazir Biriani",
+    "reservation_price": 720,
+    "address": "32 Culinary Avenue",
+    "city_id": 10,
+    "description": "A restaurant serving Exquisitely Elegant Chinese Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "011326381064",
+    "email": "hazir_biriani@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0c/54/80/f2/biriani-with-chicken.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 93,
+    "name": "Beauty Lacchi",
+    "reservation_price": 660,
+    "address": "25 Riverfront",
+    "city_id": 10,
+    "description": "A restaurant serving Enchantingly Exquisite Italian Curry.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Bangladeshi,Asian",
+    "contact": "017703269309",
+    "email": "beauty_lacchi@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-p/0b/b4/3e/ba/beauty-lacchi-and-lebu.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 94,
+    "name": "Nirob Hotel Restaurant",
+    "reservation_price": 1490,
+    "address": "41 Riverfront",
+    "city_id": 10,
+    "description": "A restaurant serving Savoringly Seaside Spanish Kebab.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Asian",
+    "contact": "011544303136",
+    "email": "nirob.hotel@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/08/96/94/41/getlstd-property-photo.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 95,
+    "name": "Royal Kitchen",
+    "reservation_price": 480,
+    "address": "67 Foodie Street",
+    "city_id": 11,
+    "description": "A restaurant serving Exquisitely Fusion Indian Pizza.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Asian",
+    "contact": "016395722587",
+    "email": "royal.kitchen@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-o/0f/50/b7/c9/royal-kitchen.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 96,
+    "name": "Royal Kitchen",
+    "reservation_price": 840,
+    "address": "82 Riverfront",
+    "city_id": 11,
+    "description": "A restaurant serving Uniquely Savory Japanese Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "013571469845",
+    "email": "royal_kitchen@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0c/ca/2c/77/grill.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 97,
+    "name": "Full Stop Lounge and Restaurant",
+    "reservation_price": 1220,
+    "address": "64 Foodie Street",
+    "city_id": 11,
+    "description": "A restaurant serving Savoringly Elegant Thai Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Indian",
+    "contact": "016696068089",
+    "email": "full.stop@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/11/36/a3/37/ahh-chicken.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 98,
+    "name": "Pushpadam",
+    "reservation_price": 270,
+    "address": "3 Culinary Avenue",
+    "city_id": 11,
+    "description": "A restaurant serving Enchantingly Elegant Spanish Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "012788897141",
+    "email": "pushpadam@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 99,
+    "name": "Tasty Story Bd",
+    "reservation_price": 1570,
+    "address": "39 Culinary Avenue",
+    "city_id": 11,
+    "description": "A restaurant serving Tastefully Delicious French Kebab.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "018816566930",
+    "email": "tasty_story@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1e/b8/ee/6f/tasty-story-bd.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 100,
+    "name": "Royal Spicy Bd",
+    "reservation_price": 770,
+    "address": "27 Food Court",
+    "city_id": 11,
+    "description": "A restaurant serving Authentically Delicious Spanish Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "018765033055",
+    "email": "royal.spicy@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1e/b8/ef/b2/royal-spicy-bd.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 101,
+    "name": "Hotel Niribili",
+    "reservation_price": 910,
+    "address": "56 Foodie Street",
+    "city_id": 11,
+    "description": "A restaurant serving Uniquely Charming Chinese Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "014783636155",
+    "email": "hotel_niribili@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0e/f3/28/57/hotel-niribili.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 102,
+    "name": "Latest Recipe",
+    "reservation_price": 1460,
+    "address": "56 Dining Boulevard",
+    "city_id": 11,
+    "description": "A restaurant serving Savoringly Savory Mediterranean Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "International",
+    "contact": "011744255917",
+    "email": "latest.recipe@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-o/09/70/b4/12/latest-recipe.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 103,
+    "name": "Olea Turkish Restaurant at Le Meridien Dhaka",
+    "reservation_price": 570,
+    "address": "16 Foodie Street",
+    "city_id": 11,
+    "description": "A restaurant serving Delightfully Rustic Bangladeshi Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "011888331559",
+    "email": "olea.turkish@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0e/ce/63/ab/salivating-seafood.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 104,
+    "name": "Latitude 23",
+    "reservation_price": 790,
+    "address": "21 Cafeteria Lane",
+    "city_id": 11,
+    "description": "A restaurant serving Wonderfully Authentic French Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Cafe",
+    "contact": "017211126289",
+    "email": "latitude_23@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0e/e5/0a/38/feel-of-a-european-cafe.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 105,
+    "name": "Paolo Griffa Al Caffe Nazionale",
+    "reservation_price": 440,
+    "address": "73 Dining Boulevard",
+    "city_id": 12,
+    "description": "A restaurant serving Wonderfully Delicious Thai Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Bar",
+    "contact": "012648329810",
+    "email": "paolo.griffa@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/28/6f/b4/72/sala-ristorante-chapelle.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 106,
+    "name": "Le Bourg Trattoria",
+    "reservation_price": 480,
+    "address": "21 Cafeteria Lane",
+    "city_id": 12,
+    "description": "A restaurant serving Enchantingly Cozy Japanese Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian",
+    "contact": "017916546414",
+    "email": "le.bourg@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0e/96/8a/29/il-locale.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 107,
+    "name": "Maison Rosset",
+    "reservation_price": 280,
+    "address": "71 Cafeteria Lane",
+    "city_id": 12,
+    "description": "A restaurant serving Wonderfully Savory Bangladeshi Kebab.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian",
+    "contact": "015285558040",
+    "email": "maison.rosset@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0f/f1/a8/e5/crostini-di-fegato-e.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 108,
+    "name": "Ethic Hotel Comtes de Challant",
+    "reservation_price": 330,
+    "address": "82 Dining Boulevard",
+    "city_id": 12,
+    "description": "A restaurant serving Savoringly Gourmet Italian Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian",
+    "contact": "015473341470",
+    "email": "ethic_hotel@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0b/97/bf/59/hotel-comtes-de-challant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 109,
+    "name": "Antica Trattoria Champagne",
+    "reservation_price": 590,
+    "address": "70 Restaurant Row",
+    "city_id": 12,
+    "description": "A restaurant serving Tastefully Exquisite Mexican Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian",
+    "contact": "018362212194",
+    "email": "antica_trattoria@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0a/7a/7a/95/buono-il-servizio-menu.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 110,
+    "name": "La Cantina Del Viandante",
+    "reservation_price": 1540,
+    "address": "13 Main Street",
+    "city_id": 12,
+    "description": "A restaurant serving Wonderfully Delicious Japanese Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Seafood",
+    "contact": "012263583946",
+    "email": "la.cantina@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/09/96/2f/aa/la-cantina-del-viandante.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 111,
+    "name": "Vineria Wine Note",
+    "reservation_price": 230,
+    "address": "31 Dining Boulevard",
+    "city_id": 12,
+    "description": "A restaurant serving Elegantly Authentic Mexican Pizza.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Wine Bar",
+    "contact": "019759717934",
+    "email": "vineria_wine@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0c/ef/f9/b7/sala-principale.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 112,
+    "name": "Agriturismo Le Bonheur Restaurant",
+    "reservation_price": 490,
+    "address": "38 Riverfront",
+    "city_id": 12,
+    "description": "A restaurant serving Enchantingly Quaint Mediterranean Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian",
+    "contact": "011025486199",
+    "email": "agriturismo_le@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0c/38/c8/c3/agriturismo-le-bonheur.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 113,
+    "name": "Le Motard",
+    "reservation_price": 1770,
+    "address": "87 Restaurant Row",
+    "city_id": 12,
+    "description": "A restaurant serving Authentically Exquisite Japanese Pizza.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Pizza",
+    "contact": "019281664546",
+    "email": "le.motard@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/28/40/98/aa/sala.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 114,
+    "name": "Trattoria Favre",
+    "reservation_price": 1040,
+    "address": "43 Food Court",
+    "city_id": 12,
+    "description": "A restaurant serving Delightfully Exquisite Greek Seafood.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian",
+    "contact": "013505819244",
+    "email": "trattoria_favre@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0c/9d/d0/84/trattoria-favre.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 115,
+    "name": "Shok-Signature Cafe",
+    "reservation_price": 280,
+    "address": "92 Food Court",
+    "city_id": 13,
+    "description": "A restaurant serving Elegantly Cozy Mediterranean Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "013538143703",
+    "email": "shok-signature_cafe@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/08/a6/ad/fb/shok-signature-cafe.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 116,
+    "name": "Casuarina",
+    "reservation_price": 1920,
+    "address": "20 Food Court",
+    "city_id": 13,
+    "description": "A restaurant serving Savoringly Quaint Spanish Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "018022102609",
+    "email": "casuarina@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/11/ca/c9/19/restaurant-is-onderdeel.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 117,
+    "name": "Akboria Grand Hotel",
+    "reservation_price": 260,
+    "address": "27 Food Court",
+    "city_id": 13,
+    "description": "A restaurant serving Tastefully Elegant Italian Biryani.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "013256502610",
+    "email": "akboria.grand@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-o/05/23/77/73/getlstd-property-photo.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 118,
+    "name": "Akboria Misti Mela",
+    "reservation_price": 840,
+    "address": "10 Lakeview Drive",
+    "city_id": 13,
+    "description": "A restaurant serving Exquisitely Charming French Seafood.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "018655416822",
+    "email": "akboria_misti@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/05/23/77/16/getlstd-property-photo.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 119,
+    "name": "Quality Sweets & Restaurant",
+    "reservation_price": 550,
+    "address": "56 Lakeview Drive",
+    "city_id": 13,
+    "description": "A restaurant serving Delightfully Exquisite Greek Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Fusion",
+    "contact": "014697221692",
+    "email": "quality.sweets@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-o/0e/b0/47/c2/this-is-the-biryani-ask.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 120,
+    "name": "Diverso",
+    "reservation_price": 1390,
+    "address": "91 Gourmet Street",
+    "city_id": 13,
+    "description": "A restaurant serving Tastefully Quaint Mexican Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "018698801948",
+    "email": "diverso@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 121,
+    "name": "Midas restaurent",
+    "reservation_price": 1260,
+    "address": "82 Lakeview Drive",
+    "city_id": 13,
+    "description": "A restaurant serving Enchantingly Cozy Thai Biryani.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Indian",
+    "contact": "012111352932",
+    "email": "midas_restaurent@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 122,
+    "name": "Cafe BBQ",
+    "reservation_price": 160,
+    "address": "86 Restaurant Row",
+    "city_id": 13,
+    "description": "A restaurant serving Savoringly Gourmet Mediterranean Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian",
+    "contact": "019603233612",
+    "email": "cafe.bbq@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 123,
+    "name": "Voot The Restaurant",
+    "reservation_price": 120,
+    "address": "33 Foodie Street",
+    "city_id": 13,
+    "description": "A restaurant serving Authentically Exquisite French Seafood.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "013417178794",
+    "email": "voot.the@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/bf/43/5f/bbq-promfret.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 124,
+    "name": "ZahMon Cafe & Restaurant",
+    "reservation_price": 410,
+    "address": "72 Lakeview Drive",
+    "city_id": 13,
+    "description": "A restaurant serving Savoringly Savory Spanish Seafood.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "018225408041",
+    "email": "zahmon_cafe@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/19/78/8a/3b/logo-design-of-zahmon.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 125,
+    "name": "\u09ae\u099a\u09ae\u099a\u09c7",
+    "reservation_price": 70,
+    "address": "55 Food Court",
+    "city_id": 14,
+    "description": "A restaurant serving Enchantingly Elegant French Dim Sum.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Fast Food",
+    "contact": "015604246874",
+    "email": "\u09ae\u099a\u09ae\u099a\u09c7@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/c5/95/66/our-logo.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 126,
+    "name": "Kalapata Restaurant",
+    "reservation_price": 650,
+    "address": "25 Lakeview Drive",
+    "city_id": 15,
+    "description": "A restaurant serving Elegantly Authentic Indian Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "015703769331",
+    "email": "kalapata.restaurant@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/12/d9/57/81/kalapata-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 127,
+    "name": "Green Prairie Restaurant",
+    "reservation_price": 850,
+    "address": "3 Culinary Avenue",
+    "city_id": 15,
+    "description": "A restaurant serving Elegantly Authentic Mexican Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "International",
+    "contact": "013369595667",
+    "email": "green_prairie@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/07/16/0c/1b/green-prairie-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 128,
+    "name": "Food Park Snacks",
+    "reservation_price": 1860,
+    "address": "75 Culinary Avenue",
+    "city_id": 15,
+    "description": "A restaurant serving Delightfully Seaside Greek Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Fast Food",
+    "contact": "016908827257",
+    "email": "food.park@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0b/9d/11/11/the-snacks-bar-located.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 129,
+    "name": "Rupashi Bangla Restaurant",
+    "reservation_price": 1860,
+    "address": "30 Dining Boulevard",
+    "city_id": 15,
+    "description": "A restaurant serving Authentically Quaint Spanish Pizza.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "016102549248",
+    "email": "rupashi_bangla@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0f/a4/fe/99/outside.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 130,
+    "name": "Feast Restaurant",
+    "reservation_price": 1170,
+    "address": "72 Riverfront",
+    "city_id": 15,
+    "description": "A restaurant serving Wonderfully Fusion Greek Dim Sum.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "012879168677",
+    "email": "feast_restaurant@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/12/d4/20/ad/feast-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 131,
+    "name": "Cafe Mariot",
+    "reservation_price": 420,
+    "address": "78 Gourmet Street",
+    "city_id": 16,
+    "description": "A restaurant serving Enchantingly Delicious Mexican Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "017659348699",
+    "email": "cafe.mariot@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0f/23/ff/53/cafe-mariot.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 132,
+    "name": "Theatre Cafe",
+    "reservation_price": 1800,
+    "address": "80 Main Street",
+    "city_id": 16,
+    "description": "A restaurant serving Elegantly Rustic French Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Cafe",
+    "contact": "018548182244",
+    "email": "theatre.cafe@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1b/64/c0/ec/theatre-cafe-best-resturant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 133,
+    "name": "Flame On",
+    "reservation_price": 300,
+    "address": "16 Riverfront",
+    "city_id": 16,
+    "description": "A restaurant serving Delightfully Savory French Dim Sum.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Chinese",
+    "contact": "011609358527",
+    "email": "flame.on@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1d/c6/51/d4/flame-on.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 134,
+    "name": "Adi Nur Hotel",
+    "reservation_price": 1060,
+    "address": "96 Cafeteria Lane",
+    "city_id": 16,
+    "description": "A restaurant serving Exquisitely Authentic Bangladeshi Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "016234763539",
+    "email": "adi_nur@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 135,
+    "name": "Sunmoon",
+    "reservation_price": 1100,
+    "address": "96 Food Court",
+    "city_id": 16,
+    "description": "A restaurant serving Elegantly Charming Mediterranean Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "016738364301",
+    "email": "sunmoon@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/09/33/f8/d6/sunmoon.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 136,
+    "name": "New Voirob Hotel and Restaurant",
+    "reservation_price": 1710,
+    "address": "85 Gourmet Street",
+    "city_id": 16,
+    "description": "A restaurant serving Authentically Charming Mexican Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "016564706803",
+    "email": "new.voirob@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 137,
+    "name": "New Voirob Hotel and Restaurant",
+    "reservation_price": 1950,
+    "address": "26 Riverfront",
+    "city_id": 16,
+    "description": "A restaurant serving Wonderfully Rustic Mediterranean Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "015506623493",
+    "email": "new_voirob@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/17/03/48/1f/2nd-floor.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 138,
+    "name": "The Lounge",
+    "reservation_price": 1240,
+    "address": "100 Food Court",
+    "city_id": 16,
+    "description": "A restaurant serving Wonderfully Seaside Mexican Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Cafe",
+    "contact": "012218797662",
+    "email": "the.lounge@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 139,
+    "name": "Chilli Spicy",
+    "reservation_price": 160,
+    "address": "100 Food Court",
+    "city_id": 16,
+    "description": "A restaurant serving Wonderfully Charming Mediterranean Seafood.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "019624987079",
+    "email": "chilli.spicy@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 140,
+    "name": "Bismillah Hotel and Restaurant",
+    "reservation_price": 780,
+    "address": "42 Restaurant Row",
+    "city_id": 17,
+    "description": "A restaurant serving Enchantingly Elegant Thai Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "011846468754",
+    "email": "bismillah_hotel@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 141,
+    "name": "Gardenia Cafe - Dinajpur",
+    "reservation_price": 150,
+    "address": "76 Lakeview Drive",
+    "city_id": 17,
+    "description": "A restaurant serving Passionately Cozy Bangladeshi Pizza.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Pizza",
+    "contact": "018889909738",
+    "email": "gardenia.cafe@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 142,
+    "name": "Food Park Snacks",
+    "reservation_price": 1880,
+    "address": "1 Main Street",
+    "city_id": 18,
+    "description": "A restaurant serving Delightfully Exquisite Thai Dim Sum.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Fast Food",
+    "contact": "016162026734",
+    "email": "food_park@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0b/9d/11/11/the-snacks-bar-located.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 143,
+    "name": "Eden Chinese Restaurant",
+    "reservation_price": 990,
+    "address": "33 Foodie Street",
+    "city_id": 18,
+    "description": "A restaurant serving Delightfully Quaint Greek Kebab.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "011683858771",
+    "email": "eden_chinese@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 144,
+    "name": "Sunset Cafe & Restaurant",
+    "reservation_price": 440,
+    "address": "61 Food Court",
+    "city_id": 19,
+    "description": "A restaurant serving Elegantly Cozy French Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Cafe,Fast Food",
+    "contact": "014523524180",
+    "email": "sunset_cafe@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/25/68/f9/a2/full-view-of-our-sunset.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 145,
+    "name": "Tasty Story Bd",
+    "reservation_price": 310,
+    "address": "56 Restaurant Row",
+    "city_id": 19,
+    "description": "A restaurant serving Tastefully Seaside Indian Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "017282598190",
+    "email": "tasty.story@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1e/b8/ee/6f/tasty-story-bd.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 146,
+    "name": "Avanti Restaurant",
+    "reservation_price": 1160,
+    "address": "6 Gourmet Street",
+    "city_id": 20,
+    "description": "A restaurant serving Enchantingly Fusion Mexican Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Pizza",
+    "contact": "011302595405",
+    "email": "avanti_restaurant@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0a/f3/a1/f9/take-away-preparation.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 147,
+    "name": "Mood On",
+    "reservation_price": 600,
+    "address": "99 Riverfront",
+    "city_id": 20,
+    "description": "A restaurant serving Elegantly Authentic Thai Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Fusion",
+    "contact": "019062241281",
+    "email": "mood_on@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/ae/d1/97/mood-on.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 148,
+    "name": "Avanti Aroma Restaurant",
+    "reservation_price": 1570,
+    "address": "63 Lakeview Drive",
+    "city_id": 20,
+    "description": "A restaurant serving Delightfully Cozy Japanese Kebab.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "012838893122",
+    "email": "avanti.aroma@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 149,
+    "name": "Star Cuisine Restaurant",
+    "reservation_price": 250,
+    "address": "20 Foodie Street",
+    "city_id": 20,
+    "description": "A restaurant serving Authentically Seaside Italian Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Chinese",
+    "contact": "015097644772",
+    "email": "star_cuisine@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/29/9e/fd/ff/chinese-set-menu.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 150,
+    "name": "Food King",
+    "reservation_price": 860,
+    "address": "24 Lakeview Drive",
+    "city_id": 20,
+    "description": "A restaurant serving Authentically Elegant Bangladeshi Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Chinese",
+    "contact": "013584617293",
+    "email": "food.king@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/29/cb/c5/78/address-mofizuddin-index.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 151,
+    "name": "Blue Mountain Restaurant",
+    "reservation_price": 1010,
+    "address": "22 Cafeteria Lane",
+    "city_id": 21,
+    "description": "A restaurant serving Delightfully Quaint Mediterranean Dim Sum.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "013364403892",
+    "email": "blue.mountain@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0f/f0/c0/96/good-environment.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 152,
+    "name": "Little Italy",
+    "reservation_price": 1150,
+    "address": "71 Riverfront",
+    "city_id": 21,
+    "description": "A restaurant serving Passionately Cozy Mexican Biryani.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Pizza",
+    "contact": "017872982060",
+    "email": "little_italy@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/04/0e/99/23/little-italy.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 153,
+    "name": "Little Italy",
+    "reservation_price": 1180,
+    "address": "50 Riverfront",
+    "city_id": 21,
+    "description": "A restaurant serving Elegantly Authentic Italian Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian",
+    "contact": "014843794349",
+    "email": "little_italy@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-o/01/6f/6d/86/vegetarian-pizza.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 154,
+    "name": "Latest Recipe",
+    "reservation_price": 1570,
+    "address": "81 Foodie Street",
+    "city_id": 21,
+    "description": "A restaurant serving Uniquely Fusion Chinese Pizza.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "International",
+    "contact": "011686288967",
+    "email": "latest_recipe@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-o/09/70/b4/12/latest-recipe.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 155,
+    "name": "Olea Turkish Restaurant at Le Meridien Dhaka",
+    "reservation_price": 460,
+    "address": "81 Cafeteria Lane",
+    "city_id": 21,
+    "description": "A restaurant serving Savoringly Gourmet Mexican Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "015528485760",
+    "email": "olea.turkish@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0e/ce/63/ab/salivating-seafood.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 156,
+    "name": "Latitude 23",
+    "reservation_price": 1190,
+    "address": "34 Culinary Avenue",
+    "city_id": 21,
+    "description": "A restaurant serving Delightfully Savory Japanese Curry.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Cafe",
+    "contact": "014744615985",
+    "email": "latitude_23@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0e/e5/0a/38/feel-of-a-european-cafe.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 157,
+    "name": "Favola at Le Meridien Dhaka",
+    "reservation_price": 230,
+    "address": "9 Food Court",
+    "city_id": 21,
+    "description": "A restaurant serving Exquisitely Rustic Mediterranean Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian",
+    "contact": "012118696018",
+    "email": "favola.at@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0e/ba/ea/6d/comfortable-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 158,
+    "name": "Grandiose Restaurant",
+    "reservation_price": 810,
+    "address": "72 Culinary Avenue",
+    "city_id": 21,
+    "description": "A restaurant serving Passionately Elegant French Kebab.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Japanese",
+    "contact": "013209847426",
+    "email": "grandiose.restaurant@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/17/b6/2e/21/grandiose-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 159,
+    "name": "Risotto by Sarina",
+    "reservation_price": 160,
+    "address": "59 Cafeteria Lane",
+    "city_id": 21,
+    "description": "A restaurant serving Savoringly Elegant Italian Curry.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian",
+    "contact": "014493752628",
+    "email": "risotto_by@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/29/76/7b/a8/lounge-area.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 160,
+    "name": "The Garden Kitchen at Sheraton Dhaka",
+    "reservation_price": 130,
+    "address": "95 Foodie Street",
+    "city_id": 21,
+    "description": "A restaurant serving Passionately Delicious Thai Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "International,Sushi",
+    "contact": "019143564059",
+    "email": "the.garden@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/22/44/b4/32/restaurant-interior.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 161,
+    "name": "Jannat Restaurant & Resort",
+    "reservation_price": 1420,
+    "address": "48 Lakeview Drive",
+    "city_id": 22,
+    "description": "A restaurant serving Tastefully Gourmet Mediterranean Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "017638475054",
+    "email": "jannat.restaurant@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/3d/c7/f2/jannat-restaurant-resort.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 162,
+    "name": "Ujan Vati Food Gallery",
+    "reservation_price": 790,
+    "address": "48 Cafeteria Lane",
+    "city_id": 22,
+    "description": "A restaurant serving Tastefully Fusion Bangladeshi Curry.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Cafe,International",
+    "contact": "019137903045",
+    "email": "ujan.vati@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1c/c0/a2/eb/img-20210307-wa0002-largejpg.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 163,
+    "name": "Khan Jahan Ali Restaurant",
+    "reservation_price": 1370,
+    "address": "51 Riverfront",
+    "city_id": 23,
+    "description": "A restaurant serving Uniquely Exquisite Greek Dim Sum.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "018209685401",
+    "email": "khan.jahan@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/26/3e/2a/d6/khan-jahan-ali-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 164,
+    "name": "Dhansiri Hotel & Restaurant",
+    "reservation_price": 160,
+    "address": "13 Foodie Street",
+    "city_id": 23,
+    "description": "A restaurant serving Authentically Charming Indian Pizza.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "015404471744",
+    "email": "dhansiri_hotel@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 165,
+    "name": "Sweet Hotel",
+    "reservation_price": 1850,
+    "address": "38 Foodie Street",
+    "city_id": 24,
+    "description": "A restaurant serving Enchantingly Rustic Japanese Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "015133826019",
+    "email": "sweet.hotel@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 166,
+    "name": "Cafe Adda",
+    "reservation_price": 1590,
+    "address": "13 Lakeview Drive",
+    "city_id": 24,
+    "description": "A restaurant serving Exquisitely Gourmet Thai Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "012957364870",
+    "email": "cafe_adda@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1b/87/5d/53/chicken-pasta.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 167,
+    "name": "Aahar Restaurant",
+    "reservation_price": 620,
+    "address": "3 Food Court",
+    "city_id": 24,
+    "description": "A restaurant serving Wonderfully Charming Greek Dim Sum.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "011297232948",
+    "email": "aahar_restaurant@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 168,
+    "name": "Hatfazilpur Bazar",
+    "reservation_price": 480,
+    "address": "60 Dining Boulevard",
+    "city_id": 24,
+    "description": "A restaurant serving Authentically Authentic Thai Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Cafe,Asian",
+    "contact": "011453804445",
+    "email": "hatfazilpur_bazar@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-o/1c/12/71/89/newly-start-business.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 169,
+    "name": "Zafran restaurant Barishal",
+    "reservation_price": 1090,
+    "address": "20 Cafeteria Lane",
+    "city_id": 25,
+    "description": "A restaurant serving Enchantingly Cozy Chinese Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "017616431288",
+    "email": "zafran.restaurant@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1b/95/4c/04/test-is-awesome.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 170,
+    "name": "Tawa",
+    "reservation_price": 450,
+    "address": "52 Foodie Street",
+    "city_id": 25,
+    "description": "A restaurant serving Elegantly Cozy Indian Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Cafe",
+    "contact": "012038111586",
+    "email": "tawa@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/12/46/03/df/fb-img-1520161351503.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 171,
+    "name": "Handi Karai",
+    "reservation_price": 480,
+    "address": "80 Lakeview Drive",
+    "city_id": 25,
+    "description": "A restaurant serving Passionately Delicious French Kebab.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "018966433644",
+    "email": "handi_karai@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0d/77/dc/6d/papad.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 172,
+    "name": "The river cafe",
+    "reservation_price": 250,
+    "address": "1 Main Street",
+    "city_id": 25,
+    "description": "A restaurant serving Passionately Elegant Japanese Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "016001623170",
+    "email": "the.river@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/18/db/70/12/the-river-cafe.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 173,
+    "name": "Hot Plate Restaurant",
+    "reservation_price": 980,
+    "address": "23 Foodie Street",
+    "city_id": 25,
+    "description": "A restaurant serving Tastefully Authentic Mediterranean Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Fast Food",
+    "contact": "016662557757",
+    "email": "hot.plate@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-p/24/c0/e9/79/hot-plate-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 174,
+    "name": "Elegant Food Castle",
+    "reservation_price": 1050,
+    "address": "5 Dining Boulevard",
+    "city_id": 25,
+    "description": "A restaurant serving Wonderfully Authentic Mediterranean Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,American",
+    "contact": "018258795018",
+    "email": "@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 175,
+    "name": "Bgoradas Chad Road, Battala, Barisal",
+    "reservation_price": 970,
+    "address": "12 Main Street",
+    "city_id": 25,
+    "description": "A restaurant serving Enchantingly Gourmet Thai Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,American",
+    "contact": "017264604143",
+    "email": "bgoradas_chad@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 176,
+    "name": "Amigos Restaurant & Juice Bar",
+    "reservation_price": 400,
+    "address": "1 Culinary Avenue",
+    "city_id": 25,
+    "description": "A restaurant serving Uniquely Savory Italian Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "015747849301",
+    "email": "amigos_restaurant@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1b/f5/df/bd/september-special-offer.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 177,
+    "name": "Amigos Restaurant & Juice Bar",
+    "reservation_price": 750,
+    "address": "38 Culinary Avenue",
+    "city_id": 25,
+    "description": "A restaurant serving Passionately Rustic Spanish Biryani.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "019803543510",
+    "email": "amigos.restaurant@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 178,
+    "name": "Western Food Restaurant",
+    "reservation_price": 1590,
+    "address": "11 Foodie Street",
+    "city_id": 25,
+    "description": "A restaurant serving Exquisitely Exquisite Bangladeshi Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian",
+    "contact": "017021623795",
+    "email": "western.food@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 179,
+    "name": "Manikganj",
+    "reservation_price": 1080,
+    "address": "13 Food Court",
+    "city_id": 26,
+    "description": "A restaurant serving Uniquely Authentic Mediterranean Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "017304119397",
+    "email": "manikganj@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-p/11/ce/7e/ce/manikganj.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 180,
+    "name": "Blue Mountain Restaurant",
+    "reservation_price": 1490,
+    "address": "14 Riverfront",
+    "city_id": 26,
+    "description": "A restaurant serving Exquisitely Rustic Japanese Pizza.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "015126148231",
+    "email": "blue.mountain@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0f/f0/c0/96/good-environment.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 181,
+    "name": "Little Italy",
+    "reservation_price": 1230,
+    "address": "64 Gourmet Street",
+    "city_id": 26,
+    "description": "A restaurant serving Uniquely Delicious Indian Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Pizza",
+    "contact": "014315882795",
+    "email": "little.italy@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/04/0e/99/23/little-italy.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 182,
+    "name": "Tasty Story Bd",
+    "reservation_price": 820,
+    "address": "25 Dining Boulevard",
+    "city_id": 26,
+    "description": "A restaurant serving Exquisitely Fusion Greek Pizza.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "015029724707",
+    "email": "tasty_story@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1e/b8/ee/6f/tasty-story-bd.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 183,
+    "name": "Little Italy",
+    "reservation_price": 240,
+    "address": "68 Culinary Avenue",
+    "city_id": 26,
+    "description": "A restaurant serving Wonderfully Cozy Chinese Seafood.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian",
+    "contact": "013512519820",
+    "email": "little_italy@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-o/01/6f/6d/86/vegetarian-pizza.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 184,
+    "name": "Creme De La Creme Cafe",
+    "reservation_price": 510,
+    "address": "37 Lakeview Drive",
+    "city_id": 26,
+    "description": "A restaurant serving Wonderfully Elegant Mediterranean Biryani.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Japanese",
+    "contact": "013605616303",
+    "email": "creme.de@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/15/d8/f4/8a/flower-sushi.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 185,
+    "name": "Bar B Q Tonight",
+    "reservation_price": 1750,
+    "address": "74 Gourmet Street",
+    "city_id": 26,
+    "description": "A restaurant serving Exquisitely Gourmet Chinese Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Indian,Barbecue",
+    "contact": "015509733580",
+    "email": "bar.b@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/03/42/64/5d/bar-b-q-tonight.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 186,
+    "name": "Serene Garden",
+    "reservation_price": 1390,
+    "address": "5 Lakeview Drive",
+    "city_id": 26,
+    "description": "A restaurant serving Savoringly Rustic French Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Italian,Chinese",
+    "contact": "019552848531",
+    "email": "serene_garden@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/3f/34/8f/cover-photo.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 187,
+    "name": "Star",
+    "reservation_price": 1020,
+    "address": "95 Dining Boulevard",
+    "city_id": 26,
+    "description": "A restaurant serving Exquisitely Quaint French Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "012474192404",
+    "email": "star@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-o/0e/94/e1/7f/star.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 188,
+    "name": "TIJEL Restaurant",
+    "reservation_price": 730,
+    "address": "18 Foodie Street",
+    "city_id": 26,
+    "description": "A restaurant serving Tastefully Delicious Japanese Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "017714458441",
+    "email": "tijel_restaurant@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-p/18/21/09/7a/tijel-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 189,
+    "name": "Coral Station",
+    "reservation_price": 1680,
+    "address": "21 Foodie Street",
+    "city_id": 27,
+    "description": "A restaurant serving Uniquely Elegant Mediterranean Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Seafood,Barbecue",
+    "contact": "019602167590",
+    "email": "coral.station@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/24/79/79/00/coral-station-is-a-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 190,
+    "name": "Palongki Inani",
+    "reservation_price": 600,
+    "address": "37 Dining Boulevard",
+    "city_id": 27,
+    "description": "A restaurant serving Uniquely Seaside Mexican Biryani.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Bangladeshi,Seafood",
+    "contact": "019806188073",
+    "email": "palongki.inani@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/27/a9/51/54/palongki-inani-sea-front.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 191,
+    "name": "Poushee Restaurant",
+    "reservation_price": 650,
+    "address": "100 Restaurant Row",
+    "city_id": 27,
+    "description": "A restaurant serving Authentically Cozy Chinese Curry.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "011711468238",
+    "email": "poushee.restaurant@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/15/1a/77/84/front-view.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 192,
+    "name": "Mermaid Cafe",
+    "reservation_price": 1600,
+    "address": "44 Dining Boulevard",
+    "city_id": 27,
+    "description": "A restaurant serving Passionately Charming Japanese Seafood.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Seafood,Asian",
+    "contact": "013245852211",
+    "email": "mermaid.cafe@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0d/e3/a4/96/mermaid-cafe.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 193,
+    "name": "Jhaubon Restaurant",
+    "reservation_price": 500,
+    "address": "82 Riverfront",
+    "city_id": 27,
+    "description": "A restaurant serving Tastefully Fusion Spanish Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Seafood,Asian",
+    "contact": "017006146960",
+    "email": "jhaubon_restaurant@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-p/0d/7b/ac/69/img-20161029-122925-largejpg.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 194,
+    "name": "Mermaid Beach Resort",
+    "reservation_price": 860,
+    "address": "29 Restaurant Row",
+    "city_id": 27,
+    "description": "A restaurant serving Savoringly Authentic Indian Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Seafood,Barbecue",
+    "contact": "014378761002",
+    "email": "mermaid.beach@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/18/16/75/e5/juice-bar.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 195,
+    "name": "EFC - A Live Fish Restaurant",
+    "reservation_price": 1990,
+    "address": "2 Main Street",
+    "city_id": 27,
+    "description": "A restaurant serving Elegantly Fusion Thai Biryani.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Seafood,Asian",
+    "contact": "018665867804",
+    "email": "efc.-@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-p/02/df/68/b3/live-fish-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 196,
+    "name": "Sea Mount Beach Cafe",
+    "reservation_price": 360,
+    "address": "41 Lakeview Drive",
+    "city_id": 27,
+    "description": "A restaurant serving Enchantingly Authentic Bangladeshi Steak.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Steakhouse,Barbecue",
+    "contact": "012583635952",
+    "email": "sea_mount@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/21/8a/67/44/it-is-almost-impossible.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 197,
+    "name": "Salt Bistro And Cafe",
+    "reservation_price": 1900,
+    "address": "37 Gourmet Street",
+    "city_id": 27,
+    "description": "A restaurant serving Enchantingly Charming Spanish Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Cafe,Seafood",
+    "contact": "018575681917",
+    "email": "salt.bistro@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/17/b2/9d/00/let-our-coffee-fuel-your.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 198,
+    "name": "Sun Dancer Cafe & Restaurant",
+    "reservation_price": 1830,
+    "address": "12 Riverfront",
+    "city_id": 27,
+    "description": "A restaurant serving Delightfully Exquisite Japanese Biryani.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Cafe",
+    "contact": "014024702875",
+    "email": "sun.dancer@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/12/07/a0/43/20171129-153836-largejpg.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 199,
+    "name": "Peda Ting Ting Restaurant",
+    "reservation_price": 1280,
+    "address": "47 Food Court",
+    "city_id": 28,
+    "description": "A restaurant serving Enchantingly Quaint Greek Tacos.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "019377377211",
+    "email": "peda.ting@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/04/93/ab/bc/peda-ting-ting-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 200,
+    "name": "Chang Pang Restaurant",
+    "reservation_price": 240,
+    "address": "38 Restaurant Row",
+    "city_id": 28,
+    "description": "A restaurant serving Authentically Seaside Bangladeshi Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Asian,Bangladeshi",
+    "contact": "017337037981",
+    "email": "chang.pang@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/0e/b0/a5/00/chang-pang-restaurant.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 201,
+    "name": "Gang Sabarang",
+    "reservation_price": 90,
+    "address": "28 Lakeview Drive",
+    "city_id": 28,
+    "description": "A restaurant serving Savoringly Gourmet Bangladeshi Curry.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Fast Food",
+    "contact": "017091021485",
+    "email": "gang.sabarang@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/19/70/f2/gang-sabarang-dinning.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 202,
+    "name": "Tugun Restaurant",
+    "reservation_price": 1780,
+    "address": "60 Food Court",
+    "city_id": 28,
+    "description": "A restaurant serving Delightfully Elegant Mexican Pizza.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "014843164198",
+    "email": "tugun.restaurant@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 203,
+    "name": "Rangamati, Asambosti",
+    "reservation_price": 1820,
+    "address": "31 Dining Boulevard",
+    "city_id": 28,
+    "description": "A restaurant serving Tastefully Rustic Indian Biryani.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Asian",
+    "contact": "013575005633",
+    "email": "rangamati,.asambosti@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 204,
+    "name": "Berannye Lake Shore Cafe",
+    "reservation_price": 1070,
+    "address": "4 Culinary Avenue",
+    "city_id": 28,
+    "description": "A restaurant serving Delightfully Gourmet Mexican Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese",
+    "contact": "014504898943",
+    "email": "berannye_lake@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 205,
+    "name": "Hill N High Cafe",
+    "reservation_price": 760,
+    "address": "6 Culinary Avenue",
+    "city_id": 28,
+    "description": "A restaurant serving Wonderfully Elegant Mediterranean Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "016056197486",
+    "email": "hill_n@yahoo.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-p/28/72/59/93/local-fish-bbq.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 206,
+    "name": "Hill N High",
+    "reservation_price": 370,
+    "address": "39 Food Court",
+    "city_id": 28,
+    "description": "A restaurant serving Tastefully Gourmet Spanish Sushi.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "015411262270",
+    "email": "hill.n@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/50/53/9d/elements-global-dining.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 207,
+    "name": "Sunset Cafe & Restaurant",
+    "reservation_price": 1590,
+    "address": "41 Food Court",
+    "city_id": 29,
+    "description": "A restaurant serving Enchantingly Fusion Greek Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Cafe,Fast Food",
+    "contact": "018168506167",
+    "email": "sunset_cafe@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/25/68/f9/a2/full-view-of-our-sunset.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 208,
+    "name": "Tasty Story Bd",
+    "reservation_price": 260,
+    "address": "94 Food Court",
+    "city_id": 29,
+    "description": "A restaurant serving Uniquely Charming Mediterranean Pasta.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Chinese,Indian",
+    "contact": "013615137821",
+    "email": "tasty_story@outlook.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-s/1e/b8/ee/6f/tasty-story-bd.jpg"
+    ]
+  },
+  {
+    "restaurant_id": 209,
+    "name": "n f c restaurant",
+    "reservation_price": 850,
+    "address": "47 Lakeview Drive",
+    "city_id": 30,
+    "description": "A restaurant serving Delightfully Fusion Italian Burger.",
+    "image_url": "dummy.jpg",
+    "cuisine_type": "Pizza,Cafe",
+    "contact": "019334976616",
+    "email": "n.f@gmail.com",
+    "images": [
+      "https://media-cdn.tripadvisor.com/media/photo-p/09/82/92/de/big-musq.jpg"
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "username": "robert_brown",
+    "email": "robert_brown@gmail.com",
+    "password": "xyz",
+    "name": "Robert Brown",
+    "city_id": 12,
+    "dob": "1948-08-25",
+    "gender": "male",
+    "profile_picture": "https://assets.rbl.ms/13284363/980x.jpg",
+    "user_id": 3
+  },
+  {
+    "username": "james_smith",
+    "email": "james_smith@gmail.com",
+    "password": "abc",
+    "name": "James Smith",
+    "city_id": 12,
+    "dob": "1982-06-22",
+    "gender": "male",
+    "profile_picture": "https://usercontent1.hubstatic.com/13192620_f520.jpg",
+    "user_id": 4
+  },
+  {
+    "username": "karen_clark",
+    "email": "karen_clark@gmail.com",
+    "password": "123",
+    "name": "Karen Clark",
+    "city_id": 29,
+    "dob": "2002-10-04",
+    "gender": "female",
+    "profile_picture": "http://listtop10s.com/wp-content/uploads/2014/05/Sexiest-Hollywood-Actresses-In-2014-.jpg",
+    "user_id": 5
+  },
+  {
+    "username": "sarah.jones",
+    "email": "sarah.jones@yahoo.com",
+    "password": "123",
+    "name": "Sarah Jones",
+    "city_id": 11,
+    "dob": "1996-11-14",
+    "gender": "female",
+    "profile_picture": "http://1.bp.blogspot.com/--skYJ5fQYs4/Tmh8V3YJgaI/AAAAAAAAFeA/-bfTeErP_R4/s1600/hollywood_actress_list+1.jpg",
+    "user_id": 6
+  },
+  {
+    "username": "karen.clark",
+    "email": "karen.clark@gmail.com",
+    "password": "abc",
+    "name": "Karen Clark",
+    "city_id": 6,
+    "dob": "1965-10-22",
+    "gender": "female",
+    "profile_picture": "https://i.ytimg.com/vi/EDgq4y0ew7o/maxresdefault.jpg",
+    "user_id": 7
+  },
+  {
+    "username": "thomas_clark",
+    "email": "thomas_clark@yahoo.com",
+    "password": "xyz",
+    "name": "Thomas Clark",
+    "city_id": 18,
+    "dob": "1951-11-05",
+    "gender": "male",
+    "profile_picture": "http://wallpapercave.com/wp/JDG8r2Y.jpg",
+    "user_id": 8
+  },
+  {
+    "username": "jessica_williams",
+    "email": "jessica_williams@yahoo.com",
+    "password": "123",
+    "name": "Jessica Williams",
+    "city_id": 29,
+    "dob": "1947-06-01",
+    "gender": "female",
+    "profile_picture": "http://1.bp.blogspot.com/--skYJ5fQYs4/Tmh8V3YJgaI/AAAAAAAAFeA/-bfTeErP_R4/s1600/hollywood_actress_list+1.jpg",
+    "user_id": 9
+  },
+  {
+    "username": "charles_jones",
+    "email": "charles_jones@gmail.com",
+    "password": "xyz",
+    "name": "Charles Jones",
+    "city_id": 4,
+    "dob": "1944-07-11",
+    "gender": "male",
+    "profile_picture": "https://qph.fs.quoracdn.net/main-qimg-183fce3cab061672b7515b55bb22c7bc",
+    "user_id": 10
+  },
+  {
+    "username": "mary_smith",
+    "email": "mary_smith@gmail.com",
+    "password": "abc",
+    "name": "Mary Smith",
+    "city_id": 25,
+    "dob": "1965-05-20",
+    "gender": "female",
+    "profile_picture": "https://i.ytimg.com/vi/EDgq4y0ew7o/maxresdefault.jpg",
+    "user_id": 11
+  },
+  {
+    "username": "david_anderson",
+    "email": "david_anderson@yahoo.com",
+    "password": "xyz",
+    "name": "David Anderson",
+    "city_id": 21,
+    "dob": "2011-02-07",
+    "gender": "male",
+    "profile_picture": "http://media2.popsugar-assets.com/files/2015/07/28/879/n/1922398/285466ade50a3012_GettyImages-177184640lxYxGv.xxxlarge.jpg",
+    "user_id": 12
+  }
+]
